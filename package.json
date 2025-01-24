@@ -1,0 +1,15 @@
+{
+  "name": "pavan",
+  "version": "1.0.0",
+  "description": "\"this is my first node project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"pksagar\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
+  }
+}
